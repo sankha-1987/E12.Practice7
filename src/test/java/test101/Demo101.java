@@ -1,4 +1,4 @@
-package tests101;
+package test101;
 
 public class Demo101 {
 
